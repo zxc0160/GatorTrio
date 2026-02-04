@@ -1,4 +1,5 @@
 # GatorTrio: Topology-Refined Tri-View Graph Learning for Spatial Domain Identification in Spatial Transcriptomics
+![model](https://github.com/Gator-Group/GatorTrio/blob/main/GatorTrio.png)
 
 ## Requirements
 - python : 3.9.12
