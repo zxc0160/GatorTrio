@@ -86,7 +86,7 @@ After training completes:
 * Evaluation results (clustering/imputation/annotation): `saved_results/`
 
   ```
-  saved_models/
+  saved_results/
    ├── ST-H1_result.json
    ├── HLN_result.json
    ├── 151507_result.json
