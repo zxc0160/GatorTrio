@@ -83,7 +83,7 @@ After training completes:
    ├── 151507_model_1_dict
    ...
   ```
-* Evaluation results (clustering/imputation/annotation): `saved_results/`
+* Evaluation results: `saved_results/`
 
   ```
   saved_results/
